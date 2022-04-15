@@ -111,7 +111,7 @@ html, body {
 .data {
     font-family: 'Amatic SC', cursive;
     position:absolute;                 
-    bottom:4%;                         
+    bottom:30px;                         
     right:4%;  
     opacity: 0;  
     color: #3B4049;
